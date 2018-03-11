@@ -13,3 +13,5 @@ Cada nuevo año, se cambiará el visor de cada una de las páginas de los depart
 
 
 
+En cada una de las páginas de departamentos hay un portlet publicador configurado para sacar todos los elementos con las etiquetas "2017-xxxxx" y "xxxxx"
+
