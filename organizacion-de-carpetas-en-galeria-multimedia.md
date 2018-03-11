@@ -22,15 +22,13 @@ Las carpetas son las siguientes:
 
 -------/slide carrusel
 
-
-
 Las imágenes tienen cada una su sitio:
 
- -/Centro:   Todo aquello estático que no se pueda introducir en otra carpeta.
+-/Centro:   Todo aquello estático que no se pueda introducir en otra carpeta.
 
--/documentos:  Todo tipo de documentos \(pdf, doc etc\)
+-/documentos:  Todo tipo de documentos \(pdf, doc etc\) PROGRAMACIONES, RRI, PGA con el nombre: 2017-XXX
 
--/Galerías:   Las imágenes y videos que vamos a utilizar en la página web.  
+-/Galerías:   Las imágenes y videos que vamos a utilizar en la página web.
 
 -/Noticias:  Todos los elementos que se utilicen en las noticias
 
